@@ -1,0 +1,21 @@
+body{
+    margin: 2rem;
+    padding: 0.5rem;
+}
+#maincontainer{
+    background-color: lightgrey;
+    box-sizing: border-box;
+    width: 70%;
+    
+}
+
+input{
+    width: 13rem;
+    height: 2rem;
+}
+
+button{
+    width: 10rem;
+    height: 2rem;
+}
+

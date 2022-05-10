@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h6{
+    margin: 4rem;
+}
+
+
+#s4{
+    text-align: center;
+}
+
+ ol,li{
+    /* float: left; */
+    padding: 0.5rem;
+    list-style: none;
+
+} 
+
+
+
+#boxcontainer1 {
+  
+    display: flex;
+    justify-content:space-evenly;
+}
+
+#boxcontainer2 {
+    padding: 2rem;
+    background-color:lightgray;
+    border: 2px solid gray;
+    display: flex;
+   justify-content:space-evenly;
+
+}
+

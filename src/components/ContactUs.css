@@ -1,0 +1,26 @@
+/* input{
+
+    width: 22rem;
+    height: 2.5rem;
+} */
+button{
+    width: 22rem;
+    
+    background-color:lightseagreen;
+}
+
+#container{
+
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+
+#boxcontainer2 {
+    padding: 2rem;
+    background-color:lightgray;
+    border: 2px solid black;
+    display: flex;
+   justify-content:space-evenly;
+
+}

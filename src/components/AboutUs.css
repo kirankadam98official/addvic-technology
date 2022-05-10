@@ -1,0 +1,18 @@
+
+
+#container1{
+
+    display: flex;
+   justify-content:space-evenly;
+}
+
+#container2{
+
+    display: flex;
+   justify-content:space-evenly;
+
+}
+
+.box1,.box2,.box3{
+    border:solid lightgray;
+}
